@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Sqli</string>
+    <string name="exit_msg">Press twice to exit</string>
+</resources>
